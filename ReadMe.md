@@ -1,0 +1,1 @@
+Users are notified about their waiting PNR Status and proximity to destination location. PNR is automatically fetched from the message inbox of mobile using Auto PNR reminder or it can be entered using Manual PNR reminder. Similarly, user can input destination address in Location reminder.
